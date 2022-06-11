@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "513521533432",
+    "project_id": "buku-saku-rumah-adat",
+    "storage_bucket": "buku-saku-rumah-adat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513521533432:android:bf9112018d7f72df8c960d",
+        "android_client_info": {
+          "package_name": "com.bukusaku.rumah.adat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "513521533432-9mt5et9tupv6dlhkqccni5dkhp1q4rkj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bukusaku.rumah.adat",
+            "certificate_hash": "a29c956b1a44db59a05c9f1516bef5c4e59cd05e"
+          }
+        },
+        {
+          "client_id": "513521533432-r90fjcle18copvvo2qf9cm80g2qp3s44.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_uemknc46SkHM4IfbcNGT8Rga-ydgsmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "513521533432-r90fjcle18copvvo2qf9cm80g2qp3s44.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
